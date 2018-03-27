@@ -3,8 +3,6 @@ package guessinggame;
 
 import java.io.IOException;
 
-
-
 /**
  *
  * @author Zachary Murphy
